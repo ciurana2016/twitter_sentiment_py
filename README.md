@@ -9,7 +9,7 @@ Sentiment analysis challange Sirajology | Twitter Sentiment Analysis - Learn Pyt
 
 ## Usage
 
-Run the script and give it a topic
+Paste your Twitter keys, then run the script and give it a topic
 ```
 python twitter_sentiment.py
 Enter a topic to search:
